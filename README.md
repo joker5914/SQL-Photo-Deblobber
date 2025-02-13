@@ -14,8 +14,6 @@ Launch the pre-compiled application, enter your  database information and simply
 Oracle Version:
 Run the MSI installer, launch the application, enter your database information and simply press "Start". A progress bar will display below showing status of the job and how many images are being extracted. This was built for simplicity and general use for anyone with an Oracle database that needs to extract BLOB photos to a folder location in .JPG format.
 
-I welcome all Forks and open this up to any who want to contribute to the greater good.
-
 Screenshot Examples:
 
 ![image](https://github.com/user-attachments/assets/f3025409-afa9-49c4-beda-381c9a3c9f1c)
