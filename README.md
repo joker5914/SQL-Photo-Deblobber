@@ -16,7 +16,7 @@ Run the MSI installer, launch the application, enter your database information a
 
 Screenshot Examples:
 
-![image](https://github.com/user-attachments/assets/f3025409-afa9-49c4-beda-381c9a3c9f1c)
+![image](https://github.com/user-attachments/assets/598bf4b4-4e2a-4e3c-8aac-6daa0b5b3c90)
 ![image](https://github.com/user-attachments/assets/2f8565c2-d0ed-49eb-aa14-fd2729d257ac)
 ![image](https://github.com/user-attachments/assets/23478ad6-e000-420b-a116-306c54fc5867)
 ![image](https://github.com/user-attachments/assets/5f18b781-12a4-4a29-b823-30edf4e790e7)
