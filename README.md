@@ -1,16 +1,18 @@
-# SQL-Photo-Deblobber
-This tool connects to a SQL Server database to extract image files from BLOB fields. Use the provided fields to enter your database connection details and authentication information.
+# Photo-Deblobber
+Download the respective tool above to connect to your database and extract image files from BLOB fields. Use the provided fields to enter your database connection details and authentication information.
 
 Tested With:
-- SQL Server 2019
+- SQL Server 2019 (compiled with PS2EXE)
+- Oracle 19c (compiled with Visual Studio)
 
 Compatible With:
 - 32/64 Bit Windows OS
 
-Compiled With:
-- PS2EXE
+SQL Server Version:
+Launch the pre-compiled application, enter your  database information and simply press "Extract Photos". A progress bar will display below showing status of the job and how many images are being extracted. Images by default will extract at a rate of 10-photos/sec and will automatically extract to the users desktop in a pre-specified folder. This was built for simplicity and general use for anyone with a SQL Server that wants to extract BLOB photos to their desktop in .JPG format.
 
-Launch the pre-compiled application made with PS2EXE, enter your SQL Server database information and simply press Extract Photos. Status will display below showing status of the job and how many images were extracted. Images by default will extract at a rate of 10-photos/sec and will automatically extract to the users desktop in a pre-specified folder. This was built for simplicity and general use for anyone with a SQL Server that wants to extract BLOB photos to their desktop in .JPG format.
+Oracle Version:
+Run the MSI installer, launch the application, enter your database information and simply press "Start". A progress bar will display below showing status of the job and how many images are being extracted. This was built for simplicity and general use for anyone with an Oracle database that needs to extract BLOB photos to a folder location in .JPG format.
 
 I welcome all Forks and open this up to any who want to contribute to the greater good.
 
